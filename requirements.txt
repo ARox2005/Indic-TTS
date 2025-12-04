@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sarvamai
+numpy
+librosa
+soundfile
+anyio
+python-multipart
